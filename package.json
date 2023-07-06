@@ -65,5 +65,9 @@
     "includedScripts": [
       "_fetch-notion-blocks"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/kipeCo8/astro-notion-blog.git",
+  "author": "Kippei-Kasai <sdmsk2456@gmail.com>",
+  "license": "MIT"
 }
